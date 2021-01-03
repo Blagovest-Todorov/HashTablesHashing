@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\DataStructures\\DataStructures\\DataStructures.csproj",
+      "projectUniqueName": "D:\\QA__\\GitProjects\\HashTablesHashing\\DataStructures.csproj",
       "projectName": "DataStructures",
-      "projectPath": "C:\\Users\\Bla\\source\\repos\\DataStructures\\DataStructures\\DataStructures.csproj",
+      "projectPath": "D:\\QA__\\GitProjects\\HashTablesHashing\\DataStructures.csproj",
       "packagesPath": "C:\\Users\\Bla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bla\\source\\repos\\DataStructures\\DataStructures\\obj\\",
+      "outputPath": "D:\\QA__\\GitProjects\\HashTablesHashing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bla\\AppData\\Roaming\\NuGet\\NuGet.Config",
